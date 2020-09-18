@@ -14,9 +14,9 @@
 </thead>
 <tbody>
 <tr>
-<td align="center"><img src="/snowplow/snowplow/wiki/images/help.png"></td>
-<td align="center"><img src="/snowplow/snowplow/wiki/images/users.png"></td>
-<td align="center"><img src="/snowplow/snowplow/wiki/images/database.png"></td>
+<td align="center"><img src="https://github.com/snowplow/snowplow/wiki/images/help.png"></td>
+<td align="center"><img src="https://github.com/snowplow/snowplow/wiki/images/users.png"></td>
+<td align="center"><img src="https://github.com/snowplow/snowplow/wiki/images/database.png"></td>
 </tr>
 <tr>
 <td><a href="https://github.com/marcelotakayama/Kadastre/wiki/Documentação#sobre-o-projeto-1">Sobre o Kadastre</a></td>
